@@ -1,7 +1,5 @@
 https://qwant.kz
 
-# My_Convex_Optimization
-
 # Qwant_projects_season_2
 <p float="left">
   <img src="https://qwant.kz/images/logo/logo-main.png" width="300" />
